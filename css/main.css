@@ -1,0 +1,107 @@
+.engloba{
+    width:100%;
+    float:left;
+    background-color: #E6E6E6;
+}
+
+.sesion{
+    color:white;
+}
+.apartado{
+    margin-left: 12%;
+    margin-top: 3%;
+    
+}
+table{
+    width: 1000px;
+}
+td{
+    background-color:white; 
+}
+th{
+    background-color: #424242;
+    color:white;
+}
+.thdos{
+    background-color: #A4A4A4;
+}
+
+.inserta{
+    background-color:black;
+    color:white;
+    margin-left: 35%;
+}
+
+.cabecera{
+    float:left;
+    width: 100%;
+    background-color: black;
+    height: 135px;
+    
+}
+.titulo{
+    font-size: 36px;
+    text-align: center;
+    margin-top:3%;
+    color:white;
+}
+.englobafront{
+    width: 100%;
+    text-align: center;
+    float:left;
+    
+}
+.formularios{
+    margin-top: 2%;
+}
+.formularios form{
+    margin-top: 2%;
+}
+.subtitulo{
+    color:white;
+    text-align: center;
+}
+
+.izquierda{
+    width: 30%;
+    float:left;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.libros{
+    width: 50%;
+    float:left;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+.tablaclara th{
+    background-color:#D8D8D8;
+    color:black;
+}
+.tablaclara{
+    width: 600px;
+}
+
+.tabla{
+    margin-top: 15%;
+}
+
+.volver{
+    margin-left: 25%;
+    margin-top: 4%;
+}
+a{
+    text-decoration: none;
+}
+.insertadescarga{
+    background-color: black;
+    color:white;
+}
+.ver{
+     background-color: black;
+    color:white;
+}
+.volver2{
+    margin-left: 40%;
+}
+
