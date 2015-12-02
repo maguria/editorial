@@ -13,7 +13,6 @@
     $log=$sesion->get("usuario");
     $iddescarga=$gestorUsuario->getIdByName($log);
     
-    var_dump($iddescarga);
     
     $page=  Request::get('page');
     if($page===null || $page===""){
